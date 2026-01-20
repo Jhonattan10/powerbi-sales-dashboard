@@ -12,6 +12,7 @@ Herramientas utilizadas
 - Power BI
 - DAX
 - Modelado de datos
+- Excel
 
 Principales insights
 - Las categorías Electronics y Clothing concentran la mayor parte de las ventas
